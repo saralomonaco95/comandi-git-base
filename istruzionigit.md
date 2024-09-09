@@ -34,3 +34,5 @@ per effettuare l'invio sulla repositorty online utilizzerò il comando
 git-push
 
 ```
+
+***Sara Lo Monaco***
